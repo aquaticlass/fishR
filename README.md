@@ -1,1 +1,1 @@
-# trashR
+# test repo for teaching
