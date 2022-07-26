@@ -3,8 +3,8 @@ title: "Test Doc 01"
 author: "Arnon U"
 date: "2022-07-26"
 output:
-  html_document:
-    keep_md:  true
+  md_document:
+    variant:  markdown_github
   
 ---
 
